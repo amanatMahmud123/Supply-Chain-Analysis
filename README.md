@@ -32,7 +32,7 @@ Enhance supply chain efficiency by optimizing inventory management. This involve
   - Inventory_stock_Data table (118,11)
 - **Key columns:** Sales per customer, Customer Segment, Order Status, Class, Shipping Mode, Current Stock, Order Profit Per Order, Order Item Quantity, Sales Per Customer, Order Item Discount, order-now
 - **Calculated columns:** stock_item_price, product_class, sales_compared_to_prev_year
-- [**Data Model**](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/data%20model.png)
+- [**Data Model**](https://github.com/amanatMahmud123/Supply-Chain-Analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings
 - Inventory value: $1.59M
@@ -57,10 +57,10 @@ Enhance supply chain efficiency by optimizing inventory management. This involve
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![ Supply Chain Analysis Presentation](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_dataanalysis-businessintelligence-datadrivendecisions-activity-7222566931113893888-HQeQ/)
+[![ Supply Chain Analysis Presentation](https://github.com/amanatMahmud123/Supply-Chain-Analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_dataanalysis-businessintelligence-datadrivendecisions-activity-7222566931113893888-HQeQ/)
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/slide.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanatMahmud123/Supply-Chain-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
@@ -79,4 +79,4 @@ The detailed presentation slides for this project can be found [here](https://gi
 - Microsoft Excel
 
 ## Dashboard
-<img src="https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/dashboard_ss.png">
+<img src="https://github.com/amanatMahmud123/Supply-Chain-Analysis/blob/main/dashboard_ss.png">
